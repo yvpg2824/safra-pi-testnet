@@ -1,1 +1,1 @@
-# safra-pi-testnet
+# safra-pi
